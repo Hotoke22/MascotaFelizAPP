@@ -1,0 +1,10 @@
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.deps.json
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\bin\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.AssemblyInfoInputs.cache
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.AssemblyInfo.cs
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.csproj.CoreCompileInputs.cache
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.dll
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.pdb
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.csproj.AssemblyReference.cache
+C:\WebTic\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
